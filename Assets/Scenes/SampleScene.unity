@@ -3858,7 +3858,7 @@ GameObject:
   - component: {fileID: 732477921}
   - component: {fileID: 732477920}
   m_Layer: 0
-  m_Name: Grid
+  m_Name: enveroment
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
