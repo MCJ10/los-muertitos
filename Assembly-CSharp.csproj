@@ -64,8 +64,8 @@
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\spawnmanager.cs" />
     <Compile Include="Assets\Scripts\Minijuego Calaveritas\Projectilmovemment.cs" />
-    <Compile Include="Assets\Scripts\PuzzleScripts\PuzzleManager.cs" />
     <Compile Include="Assets\Scripts\Minijuego Calaveritas\Playercontroller.cs" />
+    <Compile Include="Assets\Scripts\PuzzleScripts\PuzzleManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
