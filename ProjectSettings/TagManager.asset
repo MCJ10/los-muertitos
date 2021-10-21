@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: DarkenedPuzzlePieces
+    uniqueID: 3430002589
+    locked: 0
+  - name: ColoredPuzzlePieces
+    uniqueID: 4031593731
+    locked: 0
